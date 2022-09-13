@@ -57,6 +57,10 @@ To help you prepare for this class, review the following resources:
 
     This module describes different algorithms for creating a classification machine learning model, and then shows how build and test a model using Python.
 
+    Click [here](https://github.com/cm-int/machine-learning-fundamentals/tree/main/module_2/Democode) for the demonstration notebooks and data files.
+
+    Click [here](https://github.com/cm-int/machine-learning-fundamentals/tree/main/module_2/Labs) for the lab instructions, notebooks, and data files.
+
 1. **Refining a Machine Learning Model**
 
     This module explains how to refine a machine learning model, by selecting the most relevant features from the dataset, examining the distribution of values, investigating correlation between features, normalizing data, and removing bias. This module discusses issues surrounding imbalanced datasets, and how you can resolve these issues. This module also examines the precision/recall tradeoff for a model.
