@@ -65,6 +65,10 @@ To help you prepare for this class, review the following resources:
 
     This module explains how to refine a machine learning model, by selecting the most relevant features from the dataset, examining the distribution of values, investigating correlation between features, normalizing data, and removing bias. This module discusses issues surrounding imbalanced datasets, and how you can resolve these issues. This module also examines the precision/recall tradeoff for a model.
 
+    Click [here](https://github.com/cm-int/machine-learning-fundamentals/tree/main/module_3/Democode) for the demonstration notebooks and data files.
+
+    Click [here](https://github.com/cm-int/machine-learning-fundamentals/tree/main/module_3/Labs) for the lab instructions, notebooks, and data files.
+
 1. **Creating a Clustering Machine Learning Model**
 
     This module describes how to use a clustering model to group data, based on the features in the dataset. The module illustrates frequently-used clustering algorithms, and describes how to test and validate the models produced
